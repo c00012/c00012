@@ -2,7 +2,7 @@
 - 👀 I’m interested in MVVM,C#,ML,AI
 - 🌱 I’m currently learning MVVM,C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me seihyung.oh@gmail.com
+- 📫 Reach me seihyung.oh@gmail.com
 
 <!---
 c00012/c00012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
