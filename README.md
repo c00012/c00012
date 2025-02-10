@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @c00012
-- 👀 I’m interested in MVVM,C++,C#,ML,AI, FinTech
+- 👀 I’m interested in MVVM,C#,ML,AI, FinTech
 - 🌱 I’m currently learning MVVM,C#,WPF,FinTech
 - 📫 Reach me seihyung.oh@gmail.com
 
